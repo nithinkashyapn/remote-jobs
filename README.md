@@ -478,6 +478,7 @@ Name | Website | Region
 [SerpApi](/company-profiles/serpapi.md) | https://serpapi.com/ | Worldwide
 [Server Density](/company-profiles/server-density.md) | https://www.serverdensity.com | Europe
 [ServMask](/company-profiles/servmask.md) | https://servmask.com | Worldwide
+[Setu](/company-profiles/setu.md) | https://setu.co | India
 [Shogun](/company-profiles/shogun.md) | https://getshogun.com | Worldwide
 [Shopify](/company-profiles/shopify.md) | https://www.shopify.com | Worldwide
 [SignEasy](/company-profiles/signeasy.md) | https://getsigneasy.com | Worldwide
